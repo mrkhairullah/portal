@@ -1,0 +1,14 @@
+* {
+    font-family: 'Roboto', 'Poppins', 'Montserrat', 'Arial';
+}
+#root {
+    width: 400px;
+    max-width: 100%;
+    margin-inline: auto;
+}
+#avatar {
+    width: 25%;
+}
+.btn-contact {
+    background-color: var(--bs-gray-800) !important;
+}
